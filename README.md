@@ -1,4 +1,4 @@
-[Netlify link]([url](https://fabricated-links.netlify.app/))
+[Netlify link](https://fabricated-links.netlify.app/)
 
 # React + Vite
 
